@@ -1,0 +1,5 @@
+###### Requirements without Version Specifiers ######
+
+###### Requirements with Version Specifiers ######
+jsonschema==2.6.0
+singer-python>=2.1.4
