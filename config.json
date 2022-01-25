@@ -1,6 +1,6 @@
 {
     "delimiter": ",",
     "quotechar": "'",
-    "destination_path": "/Users/quentin/Desktop/Test_singer",
+    "destination_path": "/Users/quentin/Desktop",
     "disable_collection": "True"
 }

@@ -1,6 +1,6 @@
 {
-    "delimiter": "\t",
+    "delimiter": ",",
     "quotechar": "'",
-    "destination_path": "",
+    "destination_path": "/temp",
     "disable_collection": "True"
 }
